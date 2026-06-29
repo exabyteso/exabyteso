@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Engineer** with **8+ years of experience** in cloud engineering and software development, delivering scalable, reliable systems that streamline business workflows. Currently, I'm a **Freelance Cloud & Software Engineering Consultant** based in South Africa and Kenya, building bespoke applications end to end — from design and infrastructure to CI/CD and analytics.
 
-Previously, I spent four years at **Amazon Web Services** as a Cloud Engineer, where I served as an **Amazon MQ and SQS Subject Matter Expert**, **Certified Trainer**, and **Certified Interviewer**. I led initiatives that resolved bugs in Amazon MQ tooling (saving 1,000+ minutes of troubleshooting time monthly) and mentored engineers to a 100% first-time pass rate for Amazon MQ SME accreditation.
+Previously, I spent five years at **Amazon Web Services** as a Cloud Engineer, where I served as an **Amazon MQ and SQS Subject Matter Expert**, **Certified Trainer**, and **Certified Interviewer**. I led initiatives that resolved bugs in Amazon MQ tooling (saving 1,000+ minutes of troubleshooting time monthly) and mentored engineers to a 100% first-time pass rate for Amazon MQ SME accreditation.
 
 I specialize in **automation**, **full-stack development**, and **AI-assisted delivery** — leveraging tools like Cursor and LangChain to accelerate development and reduce complexity. I thrive in fast-evolving environments, mentoring teams and collaborating across functions to solve complex technical problems.
 
